@@ -7,7 +7,7 @@ export default function App() {
       {" "}
       <div className="container">
         
-        <Weather />
+        <Weather defaultCity="New York"/>
         <footer>
           This project was created by{" "}
           <a href="https://www.suzettesamm.io" target="_blank" rel="noreferrer">
