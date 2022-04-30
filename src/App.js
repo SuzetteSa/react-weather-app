@@ -6,8 +6,7 @@ export default function App() {
     <div className="App">
       {" "}
       <div className="container">
-        
-        <Weather defaultCity="New York"/>
+        <Weather defaultCity="Dallas" />
         <footer>
           This project was created by{" "}
           <a href="https://www.suzettesamm.io" target="_blank" rel="noreferrer">
