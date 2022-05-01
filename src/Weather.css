@@ -21,14 +21,14 @@
   line-height: 19px;
   font-weight: 100;
   font-size: 16px;
+  
 }
 
-.Weather img {
+.Weather canvas {
   margin-right: 10px;
   display: inline-block;
-  height: 80px;
-  width: 80px;
   vertical-align: middle;
+  margin-top: 5px;
 }
 
 .Weather .temperature {
